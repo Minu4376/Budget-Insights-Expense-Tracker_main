@@ -1,5 +1,4 @@
-email:minupj1998@gmail.com
-password:Minujohny05
+
 
  Dashboard
  -------------
